@@ -3238,6 +3238,9 @@ local authorizedUsers = {
     ["QT_xAraa"] = true,
     ["shot16kill"] = true,
     ["philippinesBraxy123"] = true
+	["Brxy_Alt"] = true
+	["Bowmbaclaat"] = true
+	["Drenvoryth"] = true
 }
 
 local function onChatMessage(player, message)
